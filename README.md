@@ -1,7 +1,5 @@
 # Retail Sales & Customer Performance Insights 📊
 
-![Dashboard Preview](Link_to_your_dashboard_image.png)
-*(Replace this text with your actual dashboard screenshot link)*
 
 ## 📖 Project Overview
 This project is an end-to-end data analysis solution designed to help a retail business understand its sales performance and customer demographics. 
@@ -68,20 +66,17 @@ Built a 2-page interactive dashboard:
 ![Dashboard Page 1](Dashboard.png)
 *Interactive view allowing users to filter by Region, Date, and Demographics.*
 
-### Page 2: Strategic Insights
-![Dashboard Page 2](Insights Report.png)
-*Executive summary highlighting key findings and actionable business steps.*
 
 ---
 
 ## 📂 Repository Structure
-* `Data/`: Contains the raw CSV files (optional).
+* `Data/`: Contains the raw CSV files .
 * `SQL_Scripts/`:
-    * `1_Data_Cleaning SQL Script.sql`: Scripts used to fix typos, NULLs, and randomize dates.
+    * `1_Data_Cleaning SQL Script.sql`: Scripts used to fix typos, and NULLs
     * `2_EDA_SQL Script.sql`: The 14 business questions answered via SQL.
 * `PowerBI/`:
     * `Dashboard.pbix`: The final dashboard file.
-    * 'Dashboard.png' : Dashboard Screenshot
+    * `Dashboard.png` : Dashboard Screenshot
 * `README.md`: Project documentation.
 
 ## 🚀 How to Run
@@ -92,6 +87,7 @@ Built a 2-page interactive dashboard:
 ---
 
 **Author:** Harshraj Suryawanshi 
+
 **LinkedIn:** www.linkedin.com/in/harshrajanalyst
 
 
